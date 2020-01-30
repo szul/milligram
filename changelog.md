@@ -1,5 +1,9 @@
 # Changelog
+All notable changes to this project will be documented in this file.
 
-**Milligram** uses [GitHub's Releases feature](https://github.com/blog/1547-release-your-software) for its changelogs.
+The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-See our [releases](https://github.com/milligram/milligram/releases) to accompany at the improvements for each version of **Milligram**.
+## [1.0.0] - 2019-01-30
+### Added
+- Initial conversion of Milligram to Centigram
